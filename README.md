@@ -5,7 +5,6 @@ Nesse desafio repliquei a página da Netflix de forma responsiva para o curso HT
 
 Incrementei algumas funcionalidades além do conteúdo ministrado no curso:  
 
-Icone de pesquisa; 
-Destaque zoom nas imagens conforme for selecionado no menu de series.
+Icone de pesquisa e destaque zoom ao passar o cursor no menu de series.
 
 📺

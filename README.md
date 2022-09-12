@@ -7,7 +7,7 @@ Incrementei algumas funcionalidades além do conteúdo ministrado no curso:
 
 Icone de pesquisa e destaque zoom ao passar o cursor no menu de series.
 
-![Recriando_pagina_instagram](PAGINA_NETFLIX/img/milaflix.jpg)
+![Recriando_pagina_netflix](PAGINA_NETFLIX/img/milaflix.jpg)
 
 ## Tecnicas e ferramentas utilizadas
 - ``HTML``
@@ -17,5 +17,4 @@ Icone de pesquisa e destaque zoom ao passar o cursor no menu de series.
 - ``JavaScript``
 - ``VS Code IDEA``
 
-## Deploy
-[Recriando_pagina_instagram]()
+

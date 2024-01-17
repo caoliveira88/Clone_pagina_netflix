@@ -1,20 +1,18 @@
-# Recriando_pagina_netflix
+# Clone_pagina_netflix
 
-Para deixar com a minha cara, com nome "Milaflix", listando um menu de séries que já assisti! 💟
-Nesse desafio repliquei a página da Netflix de forma responsiva para o curso HTML Web Developer (Digital Innovation One).
+Olá, pessoal! Este projeto representa meu desafio de personalizar a página da Netflix e adaptá-la ao meu estilo, agora batizada de "Milaflix". 
+A proposta inclui a criação de um menu para listar as séries que já assisti! 💟
 
-Incrementei algumas funcionalidades além do conteúdo ministrado no curso:  
+Repliquei a página da Netflix de maneira responsiva, indo além do conteúdo ensinado. 
+Algumas funcionalidades adicionadas incluem um ícone de pesquisa e um destaque com zoom ao passar o cursor sobre o menu de séries.
 
-Icone de pesquisa e destaque zoom ao passar o cursor no menu de series.
+![Clone_pagina_netflix](PAGINA_NETFLIX/img/milaflix.jpg)
 
-![Recriando_pagina_netflix](PAGINA_NETFLIX/img/milaflix.jpg)
+## Tool kit
+- ``HTML:`` Responsável pela estruturação da página.
+- ``CSS:`` Aplicado para estilizar e dar design ao layout.
+- ``Flexbox:`` Adotado para criar um design responsivo e flexível.
+- ``JavaScript:`` Incorporado para aprimorar a interatividade e funcionalidades.
+- ``VS Code IDEA:`` O ambiente de desenvolvimento integrado que proporcionou uma codificação eficiente.
 
-## Tecnicas e ferramentas utilizadas
-- ``HTML``
-- ``CSS``
-- ``Flexbox``
-- ``Responsividade``
-- ``JavaScript``
-- ``VS Code IDEA``
-
-
+Obrigada pela visita! 🍿
